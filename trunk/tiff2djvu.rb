@@ -1,6 +1,11 @@
 #!/usr/local/bin/shoes
 
 =begin
+
+Tiff2DjVu - to Convert all Tiff files in a directory to DjVu.
+(c) Ragu-Anu, 2009. Licensed under GNU GPL v3
+
+
 To do
 =====
 1. Fix Lazy update (Progress text appears after program completes)
